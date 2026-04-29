@@ -222,11 +222,11 @@ When the backend is running, you can access:
 
 ## 📝 License
 
-This project is for educational purposes (SEM-8 C-NLP Project).
+This project is for educational purposes by SOMESH S.
 
 ## 👨‍💻 Author
 
-Built as part of the **Computational NLP (SEM-8)** course project.
+Built as part of the **Computational NLP by SOMESH S** course project.
 
 ---
 
