@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx *)",
+      "Bash(npm start)",
+      "Bash(ngrok *)",
+      "Bash(pip install *)",
+      "Bash(python *)",
+      "Bash(timeout *)",
+      "Bash(curl *)",
+      "Bash(tasklist *)",
+      "Bash(taskkill *)",
+      "Bash(netstat *)",
+      "Bash(findstr *)",
+      "Bash(pip list)"
+    ]
+  },
+  "$version": 3
+}
